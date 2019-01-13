@@ -1,0 +1,63 @@
+body{
+    background-color:aqua;
+}
+div {
+   
+    width:50%;
+     margin-bottom:10px;
+    background-color: white; 
+    border: solid 2px ;
+    border-color: antiquewhite;
+    /* padding: 10px; */
+}
+.numberToMatch{
+    width:15%;
+    margin-right: 20px;
+    font-size: 9pt;
+    float:left;
+    background-color: palevioletred
+}
+.winsAndLosses{
+    width:15%;
+    font-size:9pt;
+    float:left;
+    background-color: crimson;
+}
+.gems{
+    clear:both;
+    width:15%;
+    text-align: center;
+    background-color:darkgreen;
+    
+}
+img{
+    width:70px;
+    margin:10px;
+}
+.header{
+    background-color:orange;
+}
+#blue{
+    color:blue;
+}
+#red{
+    color:red;
+
+}
+#yellow{
+    color:rgb(204, 204, 44);
+}
+#green{
+    color:green;
+}
+h3,h1{
+    text-align: center;
+}
+.instructions{
+    background-color:lightyellow;
+    color:darkviolet;
+}
+.userTotal{
+    background-color: darkorange;
+}
+
